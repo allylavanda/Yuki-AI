@@ -1,5 +1,5 @@
 # Yuki-AI
-Personal AI assistant development
+Personal AI discord bot assistant development
 - Uses deepseek r1:14b model.
 
 # Requirements
