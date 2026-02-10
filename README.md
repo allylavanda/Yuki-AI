@@ -1,6 +1,6 @@
 # Yuki-AI
 Personal AI assistant development
 
-#Requirements
+# Requirements
 pip install discord.py ollama
 pip install ddgs
